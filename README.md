@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://cdn.discordapp.com/attachments/991536650414985338/991540097549881354/MatchaOnMuffins.png" alt="MatchaOnMuffins">
 
 <!--
 **MatchaOnMuffins/MatchaOnMuffins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
