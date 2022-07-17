@@ -8,10 +8,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+- 😄 Pronouns: They/Them
 -->
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Python and Node js
 - 📫 How to reach me: matcha@rchat.fun
-- 😄 Pronouns: They/Them
+
 
 <img src="https://github.com/MatchaOnMuffins/MatchaOnMuffins/blob/output/github-contribution-grid-snake.svg" alt="snake">
